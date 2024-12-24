@@ -1,6 +1,6 @@
 # Netflix Sign-in Page Clone
 
-This project is a clone of the Netflix sign-in page built with **HTML** and **CSS**. It replicates the design and layout of the original page, providing a visually appealing example of a login interface.
+This project is a clone of the Netflix sign-in page built with **HTML** and **CSS**, created using the guide provided by [Coddy.tech](https://coddy.tech/courses/netflix_signin_page_clone__frontend_project). It replicates the design and layout of the original page, providing a visually appealing example of a login interface.
 
 ## Features
 - **Responsive Design**: Optimized layout for different screen sizes and devices.
@@ -21,3 +21,6 @@ If you'd like to customize the project:
 - Modify the HTML structure in `index.html` to add or change content.
 - Adjust styles in `styles.css` to tweak colors, fonts, or layout.
 - Extend functionality by linking a JavaScript file for interactive elements.
+
+## Acknowledgment
+This project was built using the guide provided by [Coddy.tech](https://coddy.tech/courses/netflix_signin_page_clone__frontend_project).
